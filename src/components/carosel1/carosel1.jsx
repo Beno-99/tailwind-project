@@ -1,5 +1,5 @@
 import React from "react";
-import { motion } from "framer-motion";
+import { motion,useScroll } from "framer-motion";
 import NavList from "../nav-list/nav-list";
 
 import image1 from "../../assets/image/w1.jpg";
